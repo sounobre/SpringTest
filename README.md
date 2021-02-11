@@ -24,7 +24,7 @@ Solicitados, implementados e testados:
 <li>Demonstração de teste da CidadeRepository</li>
 <li>Tratativa de exception de envio de dados</li>
 <li>Escrita em alguns padrões diferentes para demonstração</li>
-<li>Utilização do banco H2 para facilitar as funcionalidades</li>
+<li>Utilização do banco H2 para facilitar as verificação</li>
 </ul>
 
 <p>Link para testes pelo Postman: </br>https://www.getpostman.com/collections/fe4db342990956b06170</p>
